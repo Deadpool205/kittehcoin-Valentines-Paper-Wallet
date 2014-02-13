@@ -1,9 +1,5 @@
-![wow-such-money](http://wellsosaur.us/T70V/wow-such-doge.jpg)
-# Dogecoin Paper Wallet
-- [Live Preview](http://dogecoinpaperwallet.net)
-- [Download ZIP](https://github.com/wellsriley/dogecoinpaperwallet/archive/master.zip)
 
-*This is a fork of nsfmc's [paperwallet](https://github.com/nsfmc/paperwallet), which is a fork of cantonbecker's [bitcoinpaperwallet](https://github.com/cantonbecker/bitcoinpaperwallet) JavaScript powered offline bitcoin address generator. Please forgive the lack of Dogespeak in this README – this stuff is important.*
+*This is a fork of nsfmc's [paperwallet](https://github.com/nsfmc/paperwallet), which is a fork of cantonbecker's [bitcoinpaperwallet](https://github.com/cantonbecker/bitcoinpaperwallet) JavaScript powered offline bitcoin address generator. Please forgive the lack of KittehCoinspeak in this README – this stuff is important.*
 
 ### Wow. Very Security
 After downloading the ZIP package for this generator, you should find a file
@@ -21,7 +17,7 @@ If you get warnings like "This key is not certified, there is no indication that
 the key belongs to the owner" do not worry, this is normal.
 
 ### Much Donate
-- very dogecoin `DAWGAuMCMYCwHoU6DMNkGwrB9rGG3sY1t7`
+- very KittehCoin `DAWGAuMCMYCwHoU6DMNkGwrB9rGG3sY1t7`
 - such bitcoin  `1BrQpq4qdxnwJoD2WKKNMo4PLa8oi2mxAU`
 
 
